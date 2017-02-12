@@ -1,0 +1,29 @@
+.root {
+    -fx-background-color: #7898BF;
+    -fx-font: 14px "Arial";
+}
+
+.button {
+    -fx-font-weight: bold;
+}
+
+.button:hover {
+    -fx-background-color: #f9efff;
+}
+
+#gamesBox {
+    -fx-font-weight: bold;
+}
+
+#header {
+    -fx-font-weight: bold;
+}
+
+#vbox {
+    -fx-border-color: BLACK;
+}
+
+#table {
+           -fx-background-color: #7898BF;
+           -fx-font: 12px "Arial";
+       }
